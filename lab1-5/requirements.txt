@@ -1,0 +1,6 @@
+torch == 1.7
+torchtext == 0.8
+matplotlib
+otter-grader == 1.0.0
+numpy
+sentencepiece==0.1.92
