@@ -1,0 +1,4 @@
+torch == 1.7.0
+torchtext == 0.8
+matplotlib
+otter-grader == 1.0.0
