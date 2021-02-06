@@ -1,0 +1,2 @@
+otter-grader == 1.0.0
+nltk == 3.5.
