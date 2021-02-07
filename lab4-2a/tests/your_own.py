@@ -1,0 +1,1 @@
+test = {'name': 'your_own', 'points': 1, 'suites': [{'cases': [{'code': '>>> your_query != ...\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
