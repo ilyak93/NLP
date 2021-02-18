@@ -1,0 +1,7 @@
+nltk
+cryptography
+torchtext
+torch
+func_timeout
+otter-grader == 1.0.0
+git+https://github.com/huggingface/transformers.git
